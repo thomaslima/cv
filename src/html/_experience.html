@@ -1,13 +1,13 @@
 <section class="experience">
   <div class="section-inner-header flex-row flex-nowrap flex-space-between">
     <div class="padding-right-10">
-      <h1>{{experience.role | trim}}</h1>
       <!--(bake-start _if="experience.company")-->
-        <h2>{{experience.company | trim}}</h2>
+        <h1>{{experience.company | trim}}</h1>
       <!--(bake-end)-->
       <!--(bake-start _if="experience.organization")-->
-        <h2>{{experience.organization | trim}}</h2>
+        <h1>{{experience.organization | trim}}</h1>
       <!--(bake-end)-->
+        <h2>{{experience.role | trim}}</h2>
     </div>
     <div class="experience-dateloc">
       <!--(bake-start _if="experience.date")-->
@@ -21,7 +21,9 @@
   <!--(bake-start _if="experience.description")-->
   <p class="description">{{experience.description | trim}}</p>
   <!--(bake-end)-->
-
+  <!--(bake-start _if="experience.detailed_description")-->
+  <p class="description">{{experience.detailed_description | trim}}</p>
+  <!--(bake-end)-->
   <!--(bake-start _if="experience.description_bullets.length")-->
   <ul class="bullets">
     <!--(bake-start _foreach="bullet:experience.description_bullets")-->

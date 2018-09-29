@@ -1,15 +1,13 @@
 [
-  "Full-Stack Web Development",
-  "Object-Oriented Analysis, Design, Programming (OOA/OOD/OOP)",
-  "Algorithm Design and Analysis",
-  "Behavior / Test Driven Development - Unit, Integration, System Testing",
-  "Agile Methodologies - Scrum, Kanban",
-  "Fluent in JavaScript (ES5 &amp; ES6), React, Redux, AngularJS, Ruby, Ruby on Rails, PHP, HTML5, CSS3, LESS/SCSS",
-  "Fluent in Full OO Languages - Java, C#",
-  "Fluent in functional programming, asynchronous programming",
-  "Familiar with Vue.js, Amazon Web Services (AWS), Go, Scala, Haskell, Elixir, C++",
-  "Experience in statistical data analysis and machine learning - TensorFlow, Matlab, Octave",
-  "Experience in RDBMS and ORM - MySQL, PostgreSQL, Active Record",
-  "Experience in NoSQL - MongoDB, Cloudant",
-  "Proficient in Linux Server Configuration &amp; Administration"
+  "Grant proposal writing & project management",
+  "Photonic integrated circuit design (Si and InP) using PhoeniX, MentorGraphics and KLayout.",
+  "Probing and testing optoelectronic components and chips",
+  "Statistical data analysis, optimization, and machine learning",
+  "Automation of measurement systems (remote control via GPIB, Ethernet and National Instruments interfaces)",
+  "Distributed networks: servers, microcontrollers, FPGAs",
+  "Linux server configuration & administration",
+  "Advanced version control (git & continuous integration)",
+  "Scientific programming (Python: numpy, scipy, sympy, pandas, jupyter)",
+  "High performance C++/boost extensions for Python",
+  "Software development (mostly backend & some frontend)"
 ]

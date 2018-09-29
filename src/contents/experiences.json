@@ -1,49 +1,34 @@
 [{
-  "company": "Pisano",
-  "role": "Software Engineer",
-  "date": "09/2017 - Present",
-  "location": "Istanbul, Turkey",
-  "description_bullets": [
-    "Currently working on an MVP of a new product.",
-    "Led the web product team for 5 months. Designed the new architecture of <a href=\"https://www.pisano.co/en/widget-channels/\" rel=\"nofollow\" target=\"_blank\">Pisano Web Widget</a> and built most of the production system.",
-    "Extensively used ES6/ES7, React, Redux, Redux-Saga."
-  ]
+  "company": "Paul-Drude-Institut für Festkörperelektronik",
+  "role": "Visiting scientist",
+  "date": "apr 2014 – sept 2014",
+  "location": "Berlin, Germany",
+  "description": 
+    "Solid-state physics research institute. I worked with modelling III-V nanowire arrays for optoelectronics. Adviser: Dr. Lutz Geelhaar"
+  
 }, {
-  "company": "Google",
-  "role": "Software Engineering Intern",
-  "date": "06/2017 - 09/2017",
-  "location": "Zürich, Switzerland",
-  "description_bullets": [
-    "Built and tested the backend of a mid-size product feature.",
-    "Built a pipeline to collect user statistics and do data analysis."
-  ]
+  "company": "deltamethod",
+  "role": "Visiting data scientist",
+  "date": "jul 2013 – oct 2013",
+  "location": "Berlin, Germany",
+  "description": "Data-driven consulting on search engine marketing that helps customers structure their online campaigns and brands. There, I designed a prototype algorithm that optimizes keyword bidding in the Google Adwords auction system using state-of-the-art statistical tools in Python, allowing them to manage millions of keywords. Adviser: Arthur Gerigk"
 }, {
-  "company": "Pisano",
-  "role": "Software Engineer",
-  "date": "06/2016 - 06/2017",
-  "location": "Istanbul, Turkey",
-  "description_bullets": [
-    "Full-stack web development using Ruby on Rails, AngularJS, CoffeeScript, HTML5, LESS.",
-    "Worked in a team-based development environment using agile methodologies like Kanban and Scrum.",
-    "Built, tested and successfully launched the key web product Pisano Web Widget."
-  ]
+  "company": "Geekie",
+  "role": "Co-founder, Product Manager and Software Engineer",
+  "date": "sep 2011 – jan 2012",
+  "location": "São Paulo, Brazil",
+  "description": "Education technology start-up that provides a personalized learning experience for each student using dynamic content and artificial intelligence algorithms.",
+  "detailed_description": "Today Geekie numbers over 100 employees, reaches five million students and has a governmental contract that delivers access to the platform for all students in public schools."
 }, {
-  "company": "Infoset Software",
-  "role": "Software Engineer",
-  "date": "07/2016 - 06/2017",
-  "location": "Istanbul, Turkey",
-  "description_bullets": [
-    "Developed and maintained the email marketing platform <a href=\"http://www.infomsg.com\" target=\"_blank\" rel=\"nofollow\">infomessage</a>.",
-    "Was responsible for the frontend development of 2 company websites: <a href=\"http://www.infomsg.com\" target=\"_blank\" rel=\"nofollow\">http://www.infomsg.com</a> and <a href=\"http://www.infoset.com.tr\" target=\"_blank\" rel=\"nofollow\">http://www.infoset.com.tr</a>",
-    "Did both on-page and off-page SEO, got the company websites on the first page of Google for competitive keywords."
-  ]
+  "company": "Groupon",
+  "role": "Senior Analyst, then Head of Business Intelligence Department",
+  "date": "jan 2011 – sep 2011",
+  "location": "São Paulo, Brazil",
+  "description": "The responsibilities of the Business Intelligence department were to curate sales data, to provide insightful analysis to the managing directors, and to guide the sales team. During my leadership, the company saw a breakthrough on the availability of financial and sales reports, as my team and I automated the entire process from data collection of millions of transactions per week to the delivery of daily reports. With sophisticated automation, I redirected human resources to focus on providing customized analysis and guidance to other departments. On that same period, the company raised its revenue by 20% while reducing its sales force by 33%."
 }, {
-  "company": "Boğaziçi University Entrepreneurship Center",
-  "role": "Development Team Leader",
-  "date": "09/2016 - 06/2017",
-  "location": "Istanbul, Turkey",
-  "description_bullets": [
-    "Was in charge of a team of 6 people.",
-    "Built and deployed the new web application of the entrepreneurship center called \"Bright\" using PHP (Laravel) and JS (ES6)."
-  ]
+  "company": "F123.org project",
+  "role": "Software Engineer and User Experience Consultant",
+  "date": "aug 2010 – jan 2011",
+  "location": "Curitiba, Brazil",
+  "description": "Award-winning NGO project providing cheap and fully functional open-source operating system for visually impaired users. The OS was first contact of hundreds of visually impaired people to a computer. Some of them were successfully employed as a result of the project."
 }]
