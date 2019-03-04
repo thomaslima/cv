@@ -6,15 +6,15 @@
   </head>
   <body>
     <header class="container">
-      <div class="flex-row flex-space-between flex-align-center">
+      <div class="flex-row flex-space-between">
         <!--(bake-start _if="personal_info.photo")-->
-        <div class="info-pic">
+        <div class="info-pic flex-start">
           <img src="{{personal_info.photo}}" alt="Photo of {{personal_info.name}}"
                class="pic bordered-pic"/>
         </div>
         <!--(bake-end)-->
 
-        <div class="flex-column info-left">
+        <div class="flex-column info-left flex-center">
           <h1 class="name">{{personal_info.name | trim}}</h1>
           <h2 class="profession">{{personal_info.profession | trim}}</h2>
           <!--(bake-start _if="personal_info.summary")-->
@@ -22,7 +22,7 @@
           <!--(bake-end)-->
         </div>
 
-        <div class="flex-column flex-nowrap info-right">
+        <div class="flex-column flex-nowrap info-right flex-end">
           <!--(bake-start _if="personal_info.mail")-->
           <div>
             <a href="mailto:{{personal_info.mail}}">{{personal_info.mail | clearWhitespaces}}</a>
@@ -62,6 +62,13 @@
           <div>
             <a href="{{personal_info.linkedin.url | trim}}" target="_blank">{{personal_info.linkedin.title | trim}}</a>
             <i class="fa fa-linkedin"></i>
+          </div>
+          <!--(bake-end)-->
+
+          <!--(bake-start _if="personal_info.googlescholar")-->
+          <div>
+            <a href="{{personal_info.googlescholar.url | trim}}" target="_blank">{{personal_info.googlescholar.name | trim}} (Google Scholar)</a>
+            <i class="fa fa-quote-right"></i>
           </div>
           <!--(bake-end)-->
 
@@ -227,7 +234,6 @@
       <div class="col-sm-12 col-md-12 full-page">
         <div class="block">
           <!--(bake _section-header.html title="Selected Publications")-->
-          <a href="https://scholar.google.com/citations?hl=en&user=462r5jQAAAAJ" target="_blank"><i class="fa fa-quote-right">&nbsp;</i>Google Scholar</a>
           <section class="publications">
             <ul class="bullets">
               <!--(bake-start _foreach="publication:publications")-->

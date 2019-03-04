@@ -5,10 +5,19 @@
   //       Current font (EB Garamond) is only available in weight 400.
   * {
     font-weight: initial !important;
+    font-size: 11pt;
   }
 
   .container {
     width: 100% !important;
+  }
+
+  header .info-pic {
+    display: none;
+  }
+
+  header .name {
+    font-size: 1.5rem;
   }
 
   h1, h2, h3, h4, h5, h6 {
@@ -18,5 +27,19 @@
 
   section {
     page-break-before: avoid;
+  }
+
+  section.experience,
+  section.education,
+  section.honors ul div,
+  section.languages,
+  section.project,
+  section.publications ul li
+  {
+    page-break-inside: avoid;
+  }
+
+  @page {
+    margin: 2cm;
   }
 }
