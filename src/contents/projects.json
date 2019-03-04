@@ -5,9 +5,9 @@
   "github": "https://github.com/smddzcy/cv"
 }, {
   "name": "KLayout",
-  "role": "Contributor",
+  "role": "Contributor and Maintainer",
   "description": "High Performance Layout Viewer And Editor",
-  "github": "https://github.com/lightwave-lab/klayout",
+  "github": "https://github.com/KLayout/klayout",
   "link": "https://www.klayout.de"
 }, {
   "name": "SiEPIC-Tools",
