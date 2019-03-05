@@ -83,6 +83,9 @@
     </header>
 
     <main class="container">
+      <div class="col-xs-12 print-message">
+        <p>For better printing results, use Google Chrome browser.</p>
+      </div>
       <div class="col-sm-12 col-md-6 half-page" id="first-half-page">
         <!--(bake-start _if="experiences.length")-->
         <div class="block">
@@ -98,23 +101,19 @@
         </div>
         <!--(bake-end)-->
 
-        <!--(bake-start _if="languages.length")-->
+        <!--(bake-start _if="skills.length")-->
         <div class="block">
-          <!--(bake _section-header.html title="Languages")-->
-          <section class="languages">
+          <!--(bake _section-header.html title="Skills")-->
+          <section class="skills">
             <ul class="bullets">
-              <!--(bake-start _foreach="language:languages")-->
-              <li class="inline fifty">
-                <span>
-                  <!--(bake-start _if="language.level")-->{{language.level | trim}}<!--(bake-end)-->
-                  <strong>{{language.name | trim}}</strong>
-                </span>
-              </li>
+              <!--(bake-start _foreach="skill:skills")-->
+              <li><span>{{skill | trim}}</span></li>
               <!--(bake-end)-->
             </ul>
           </section>
         </div>
         <!--(bake-end)-->
+
       </div>
 
       <div class="col-sm-12 col-md-6 half-page" id="second-half-page">
@@ -169,6 +168,25 @@
         </div>
         <!--(bake-end)-->
 
+
+        <!--(bake-start _if="languages.length")-->
+        <div class="block">
+          <!--(bake _section-header.html title="Languages")-->
+          <section class="languages">
+            <ul class="bullets">
+              <!--(bake-start _foreach="language:languages")-->
+              <li class="inline fifty">
+                <span>
+                  <!--(bake-start _if="language.level")-->{{language.level | trim}}<!--(bake-end)-->
+                  <strong>{{language.name | trim}}</strong>
+                </span>
+              </li>
+              <!--(bake-end)-->
+            </ul>
+          </section>
+        </div>
+        <!--(bake-end)-->
+
         <!--(bake-start _if="honors.length")-->
         <div class="block">
           <!--(bake _section-header.html title="Honors & Awards")-->
@@ -186,19 +204,6 @@
                 <span>{{honor.description}}</span>
                 <!--(bake-end)-->
               </div>
-              <!--(bake-end)-->
-            </ul>
-          </section>
-        </div>
-        <!--(bake-end)-->
-
-        <!--(bake-start _if="skills.length")-->
-        <div class="block">
-          <!--(bake _section-header.html title="Skills")-->
-          <section class="skills">
-            <ul class="bullets">
-              <!--(bake-start _foreach="skill:skills")-->
-              <li><span>{{skill | trim}}</span></li>
               <!--(bake-end)-->
             </ul>
           </section>
