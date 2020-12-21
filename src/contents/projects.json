@@ -2,7 +2,12 @@
   "name": "lightlab",
   "role": "Author and Maintainer",
   "description": "Python-based software for laboratory instrumentation and automation",
-  "github": "https://github.com/smddzcy/cv"
+  "github": "https://github.com/lightwave-lab/lightlab"
+}, {
+  "name": "zeropdk",
+  "role": "Author and Maintainer",
+  "description": "Pure-python PDK that enables scripted layout of photonic integrated circuits based on klayout.",
+  "github": "https://github.com/lightwave-lab/zeropdk"
 }, {
   "name": "KLayout",
   "role": "Contributor and Maintainer",
