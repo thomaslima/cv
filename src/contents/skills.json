@@ -3,11 +3,11 @@
   "Photonic integrated circuit design (Si and InP) using PhoeniX, MentorGraphics and KLayout.",
   "Probing and testing optoelectronic components and photonic integrated circuits",
   "Statistical data analysis, optimization, and machine learning",
-  "Automation of measurement systems (remote control via GPIB, Ethernet and National Instruments interfaces)",
+  "Automation and remote control of measurement systems (GPIB, SPI, Custom PCB, Ethernet)",
   "Distributed networks: servers, microcontrollers, FPGAs",
   "Linux server configuration & administration",
-  "Advanced version control (git & continuous integration)",
-  "Scientific programming (Python: numpy, scipy, sympy, pandas, jupyter)",
+  "Opensource contribution and Advanced version control (git & continuous integration)",
+  "Scientific programming (Python: pytorch, numpy, scipy, sympy, pandas, jupyter)",
   "High performance C++/boost extensions for Python",
   "Software development (mostly backend & some frontend)"
 ]

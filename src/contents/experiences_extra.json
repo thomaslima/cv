@@ -1,0 +1,15 @@
+[{
+  "company": "Paul-Drude-Institut für Festkörperelektronik",
+  "role": "Visiting scientist",
+  "date": "apr 2014 – sept 2014",
+  "location": "Berlin, Germany",
+  "description":
+    "Solid-state physics research institute. I worked with modelling III-V nanowire arrays for optoelectronics. Adviser: Dr. Lutz Geelhaar"
+
+}, {
+  "company": "deltamethod",
+  "role": "Visiting data scientist",
+  "date": "jul 2013 – oct 2013",
+  "location": "Berlin, Germany",
+  "description": "Data-driven consulting on search engine marketing that helps customers structure their online campaigns and brands. There, I designed a prototype algorithm that optimizes keyword bidding in the Google Adwords auction system using state-of-the-art statistical tools in Python, allowing them to manage millions of keywords. Adviser: Arthur Gerigk"
+}]

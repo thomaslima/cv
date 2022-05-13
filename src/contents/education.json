@@ -1,13 +1,13 @@
 [{
   "name": "Princeton University",
-  "degree": "Ph.D. Candidate, Neuromorphic Photonics",
+  "degree": "Ph.D. in Electrical and Computer Engineering",
   "major": "Neuromorphic Photonics, Department of Electrical Engineering",
-  "date": "sept 2014 – current",
+  "date": "sept 2014 – may 2021",
   "location": "Princeton, USA",
-  "description": "Research assistant in the Lightwave Lab (Adviser: Paul Prucnal). My research involves building large-scale photonic circuits on chip that emulate the functionality of neural networks, but working at GHz speed. I was a teaching assistant for four consecutive semesters for the course EPICS (Engineering Projects in Community Service) taught by Prof. Michael Littman, reaching about 100 students."
+  "description": "Worked as research assistant in the Lightwave Lab (Adviser: Paul Prucnal). My research involved building large-scale photonic circuits on chip that emulate the functionality of neural networks, but working at GHz speed. I was a teaching assistant for four consecutive semesters for the course EPICS (Engineering Projects in Community Service) taught by Prof. Michael Littman, reaching about 100 students."
 }, {
   "name": "Ecole Polytechnique",
-  "degree": "Ingénieur Polytechnicien (B.Sc. & M.Sc.)",
+  "degree": "Ingénieur Polytechnicien (B.Sc. & M.Sc. equivalent)",
   "major": "Physics for Optics and Nanosciences",
   "date": "jan 2012 – jul 2014",
   "location": "Paris, France",
