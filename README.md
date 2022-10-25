@@ -5,7 +5,7 @@
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.svg)](http://gruntjs.com/)
 [![MIT License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://raw.githubusercontent.com/smddzcy/cv/master/LICENSE)
 
-A simple, modern CV / resume template. Click [here](http://www.smddzcy.com/cv/) to see an example.
+A simple, modern CV / resume template. Click [here](https://smddzcy.com/cv/) to see an example.
 
 ## Creating Your CV
 
@@ -20,9 +20,9 @@ A simple, modern CV / resume template. Click [here](http://www.smddzcy.com/cv/) 
 
 3. Run `grunt build` and get your fresh CV in the HTML format from `dist/index.html`.
 
-If you want it in the PDF format, you can print the page as a PDF, just like I do all the time. (*Just do not use Chrome to print, that has some real problems with printing*)
+If you want it in the PDF format, you can print the page as a PDF from your browser, just like I do all the time.
 
-**Note:** `src/contents/color_palette.json` contains the color settings of your CV. There are some fixed set of colors, and you can look at your options from that file (`colorOptions` field) or [here](https://raw.githubusercontent.com/smddzcy/cv/master/src/img/color-palette.jpg) or `src/img/color-palette.jpg` file.
+**Note:** `src/contents/color_palette.json` contains the color settings of your CV. There is a fixed set of colors, and you can look at your options from that file (`colorOptions` field) or [here](https://raw.githubusercontent.com/smddzcy/cv/master/src/img/color-palette.jpg) or `src/img/color-palette.jpg` file.
 
 ## Filling Your Information
 
@@ -39,7 +39,7 @@ If you want it in the PDF format, you can print the page as a PDF, just like I d
     },
     "personal_site": {
       "title": "smddzcy.com",
-      "url": "http://www.smddzcy.com/"
+      "url": "https://smddzcy.com/"
     },
     "github": {
       "title": "github.com/smddzcy",
@@ -132,7 +132,7 @@ As you can see, **HTML is allowed inside description values**.
     "name": "BounCoursePlanner",
     "description": "Course schedule planner for Boğaziçi University students. Finds the best schedule, which has the less conflicts and most free hours they want.",
     "github": "https://github.com/smddzcy/BounCoursePlanner",
-    "link": "http://www.smddzcy.com/BounCoursePlanner/"
+    "link": "https://smddzcy.com/BounCoursePlanner/"
   }, {
     ...
   }]
@@ -205,7 +205,7 @@ You can use `description_bullets` instead of `description` just like in the `exp
 2. Clone the repo (`git clone https://github.com/-YOUR NAME-/cv.git`)
 3. Install the dependencies with `npm install`.
 4. Run `grunt` and keep it open while making your changes. Please keep the default JSON files while contributing, since I serve my CV to some places directly from this repo.
-6. When you're finished; commit (`git commit -am "YOUR COMMIT MESSAGE"`) and push (`git push`) your changes.
+6. When you're done, commit (`git commit -am "YOUR COMMIT MESSAGE"`) and push (`git push`) your changes.
 7. Make a pull request, from [here](https://github.com/smddzcy/cv/compare).
 
 You can pick one of the TODO's below and start contributing right away. Thank you so much!
