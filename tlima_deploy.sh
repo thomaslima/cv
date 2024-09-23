@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-grunt build && rsync -av dist/ ../thomaslima.github.io/static/cv
+node_modules/grunt-cli/bin/grunt build && rsync -av dist/ ../thomaslima.github.io/static/cv

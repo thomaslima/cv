@@ -1,13 +1,10 @@
 [
-  "Grant proposal writing & project management",
-  "Photonic integrated circuit design (Si and InP) using PhoeniX, MentorGraphics and KLayout.",
-  "Probing and testing optoelectronic components and photonic integrated circuits",
-  "Statistical data analysis, optimization, and machine learning",
-  "Automation and remote control of measurement systems (GPIB, SPI, Custom PCB, Ethernet)",
-  "Distributed networks: servers, microcontrollers, FPGAs",
-  "Linux server configuration & administration",
-  "Opensource contribution and Advanced version control (git & continuous integration)",
-  "Scientific programming (Python: pytorch, numpy, scipy, sympy, pandas, jupyter)",
-  "High performance C++/boost extensions for Python",
-  "Software development (mostly backend & some frontend)"
+  "<b>Photonic integrated circuit design</b> (Si and InP) using commercial and opensource simulation and layout software",
+  "<b>Distributed networks & system automation</b> (servers, microcontrollers, FPGAs, GPIB, SPI, Custom PCB, Ethernet, Linux server configuration & administration)",
+  "<b>Probing and testing optoelectronic components and photonic integrated circuits</b>",
+  "<b>Statistical data analysis, optimization, and machine learning</b>",
+  "<b>Scientific and high-performance programming</b> (Python: PyTorch, NumPy, SciPy, SymPy, Pandas, Jupyter; C++/Boost extensions)",
+  "<b>Software development</b> (mostly backend, some frontend)",
+  "<b>Open-source contribution & advanced version control</b> (Git & continuous integration)",
+  "<b>Grant proposal writing & project management</b>"
 ]

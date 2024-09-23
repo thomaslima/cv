@@ -1,7 +1,7 @@
 {
   "name": "Thomas Ferreira de Lima, Ph.D.",
-  "profession": "Researcher at NEC Laboratories America",
-  "summary": "French-Brazilian, born in 1990. I am a photonics researcher with experience in opensource development and start-up businesses. My research focuses on photonic computing hardware and artificial intelligence applications. <br /><i>Updated: May 2022</i>",
+  "profession": "Principal Photonic Design Engineer @ Quantum Transistors",
+  "summary": "French-Brazilian photonics design engineer and researcher, born in 1990. Specializing in quantum computing, with a strong background in photonic computing, AI accelerator hardware, and open-source software development. <br /><i>Updated: Sep 2024</i>",
   "mail": "thomas@tlima.me",
   "address": {
     "title": "Princeton, NJ, USA",
@@ -23,6 +23,6 @@
     "name": "T. Ferreira de Lima",
     "url": "https://scholar.google.com/citations?hl=en&user=462r5jQAAAAJ"
   },
-  "photo": "img/headshot-bw.jpg",
+  "photo": "img/IMG_7922.jpeg",
   "google_analytics": "G-9JBSB4773F"
 }

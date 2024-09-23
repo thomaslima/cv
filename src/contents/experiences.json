@@ -1,10 +1,17 @@
 [{
+  "company": "Quantum Transistors",
+  "role": "Principal Photonic Design Engineer",
+  "date": "nov 2023 – current",
+  "location": "New York, NY, USA",
+  "description":
+    "Responsible for the design and testing of Photonic Integrated Circuits a single-chip quantum processor."
+},{
   "company": "NEC Laboratories America",
   "role": "Researcher, Optical Networking & Sensing Dept.",
-  "date": "may 2021 – current",
+  "date": "may 2021 – oct 2023",
   "location": "Princeton, NJ, USA",
   "description":
-    "Research arm of NEC Corporation. Working on the intersection of Photonic Computing and Artificial Intelligence projects."
+    "Research arm of NEC Corporation. Worked on research projects spanning photonic computing, distributed artificial intelligence, datacenter optical link sensing and orchestration, and optically-assisted biosensing."
 }, {
   "company": "Geekie",
   "role": "Co-founder, Product Manager and Software Engineer",
@@ -16,7 +23,7 @@
   "role": "Senior Analyst, then Head of Business Intelligence Department",
   "date": "jan 2011 – sep 2011",
   "location": "Berlin, Germany / São Paulo, Brazil",
-  "description": "Since 2011, the Business Intelligence department curated sales data, provided insightful analysis to the managing directors, and guided the sales team. During my leadership, the company saw a breakthrough transformation in the delivery of financial and sales reports, as my team and I automated the entire process from data collection (millions of transactions per week) to the generation of daily reports. With sophisticated automation, I redirected human resources to focus on providing customized analysis and guidance to other departments. On that same period, the company raised its revenue by 20% while reducing its sales force by 33%."
+  "description": "Led a transformative shift in Groupon's Business Intelligence from 2011, automating the end-to-end sales data process—handling millions of transactions weekly. This automation improved financial and sales reporting, allowing human resources to focus on tailored analysis for other departments. During this time, the company increased revenue by 20% while reducing its sales force by 33%."
 }, {
   "company": "F123.org project",
   "role": "Software Engineer and User Experience Consultant",
